@@ -40,7 +40,8 @@ extern void impl_ref_to_all_class();
 ```
 
 >使用提供的Python文件（RandomCodeTools.py）就可以使用文件夹是recode的垃圾代码，直接拖          入工程即可，建议生成垃圾代码控制在50-100个类左右，过多还是容易被苹果4.3。
-
+>如下截图介绍
+![image](https://github.com/zhongaiyemaozi/iOS-confusion/blob/master/WechatIMG229.jpeg)
 
  ## 反馈与建议
 - 邮箱：<873456034@qq.com>
